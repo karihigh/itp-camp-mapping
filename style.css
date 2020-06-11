@@ -1,0 +1,10 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Courier New', sans-serif;
+  margin: 2em;
+}
+
+#mapid { 
+  height: 400px; 
+}
